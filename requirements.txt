@@ -5,3 +5,4 @@ gunicorn==23.0.0
 pandas==2.2.1
 tempfile2==0.1.2
 pathlib==1.0.1
+trafilatura==1.6.2  # (अगर इसको use कर रहे हो तो)
