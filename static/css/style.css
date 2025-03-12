@@ -1,0 +1,16 @@
+/* Minimal custom styles to complement Bootstrap */
+.card {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+code {
+    max-width: 300px;
+    display: block;
+    overflow: auto;
+    white-space: pre-wrap;
+}
+
+.table-responsive {
+    max-height: 500px;
+    overflow-y: auto;
+}
